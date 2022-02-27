@@ -1,0 +1,288 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A gallant speech spoken by His Highnesse James Duke of Yorke to Englands renowned generall, His Excellency Sir Thomas Fairfax, at the Kings Majesties royall conrt [sic] at Causam. Together, with His Excellencies answer to the said speech, concerning the Kings Majesty, and his royall posterity. Also the chiefe heads of the armies new declaration concerning the King, Parliament, and kingdome. With a message from the generall to the citizens of London.</title>
+            <author>Sanders, William, fl. 1647.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87476</idno>
+            <idno type="STC">Wing J184</idno>
+            <idno type="STC">Thomason E399_37</idno>
+            <idno type="STC">ESTC R201736</idno>
+            <idno type="EEBO-CITATION">99862235</idno>
+            <idno type="PROQUEST">99862235</idno>
+            <idno type="VID">114386</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87476)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114386)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E399[37])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A gallant speech spoken by His Highnesse James Duke of Yorke to Englands renowned generall, His Excellency Sir Thomas Fairfax, at the Kings Majesties royall conrt [sic] at Causam. Together, with His Excellencies answer to the said speech, concerning the Kings Majesty, and his royall posterity. Also the chiefe heads of the armies new declaration concerning the King, Parliament, and kingdome. With a message from the generall to the citizens of London.</title>
+                  <author>Sanders, William, fl. 1647.</author>
+                  <author>James II, King of England, 1633-1701.</author>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>By John Harris?] for Edward Benington, for the publike use of Great Britain,</publisher>
+                  <pubPlace>Printed at Oxford [i.e. London? :</pubPlace>
+                  <date>Anno 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A letter, dated and signed at end: Redding 22 of July 1647. William Sanders.</note>
+                  <note>The imprint is false. "A catchpenny London piece, .. No such printer as E. Benington is known at Oxford or London"--Madan. "This appears to be one of the pamphlets printed by John Harris, .. and to which he added names that cannot be identified as stationers"--Plomer.</note>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Annotation on Thomason copy: "July 23".</note>
+                  <note>Bound between sigs. B and C of Thomason Tract E.399[36].</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114386:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 41 -->
+            <p>A GALLANT SPEECH Spoken by His Highneſſe JAMES DUKE OF YORKE TO <hi>ENGLANDS</hi> renowned Generall, His Excellency Sir <hi>Thomas Fairfax,</hi> at the Kings Majeſties Royall Court at <hi>Cauſam.</hi>
+            </p>
+            <p>TOGETHER, <hi>With His Excellencies Anſwer to the ſaid Speech, con<g ref="char:EOLhyphen"/>cerning the Kings Majeſty, and His Royall Posterity.</hi>
+            </p>
+            <p>Alſo the chiefe Heads of the Armies new Declara<g ref="char:EOLhyphen"/>tion concerning the King, Parliament, and Kingdome. With a Meſſage from the Generall to the Citi<g ref="char:EOLhyphen"/>zens of <hi>LONDON.</hi> 
+               <date>
+                  <add>July 23</add>
+               </date>
+            </p>
+            <p>Printed at <hi>Oxford</hi> for <hi>Edward Benington,</hi> for the publike uſe of <hi>Great Brittain, Anno</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:114386:2"/>
+            <!-- PDF PAGE 42 -->
+            <pb facs="tcp:114386:2"/>
+            <!-- PDF PAGE 42 -->
+            <head>THE COPY OF <hi>A</hi> LETTER FROM The Generals Head-quarters at <hi>Redding,</hi> to the Citizens of <hi>London.</hi>
+            </head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>THe particulars which I have to re<g ref="char:EOLhyphen"/>preſent unto you at this preſent, are things very remarkable and of great conſe<g ref="char:EOLhyphen"/>quence, being of ripeneſſe and maturity, both for the view of your Metropolis, and the whole Kingdome alſo: Therefore, for ſatiſ<g ref="char:EOLhyphen"/>factions
+<pb facs="tcp:114386:3"/>
+               <!-- PDF PAGE 43 -->of your ſelves, and the reſt of your Fellow Commoners, I ſhall here communi<g ref="char:EOLhyphen"/>cate unto you, a Copy of the Generalls De<g ref="char:EOLhyphen"/>claration to the Lord Mayor and Citizens of <hi>London;</hi> together with another Paper of gre<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t conſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>quence, agreed up<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n by his Ex<g ref="char:EOLhyphen"/>cellency, and the Councell of Warre, con<g ref="char:EOLhyphen"/>cerning the Free-born Subj<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>&amp;s of this Na<g ref="char:EOLhyphen"/>tion; both which, I ſhall here inſert ver<g ref="char:EOLhyphen"/>batim, <hi>viz.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="declaration">
+                        <head>A Copy of the Declaration ſent from his Excellency Sir Thomas Fuirfax, to the Lord Mayor and Citi<g ref="char:EOLhyphen"/>zens of London.</head>
+                        <p>VVHereas in the carying on of the great bu<g ref="char:EOLhyphen"/>ſineſſes of the Kingdome towards a gene<g ref="char:EOLhyphen"/>rall and happy ſettlement, it hath been a ſixed prin<g ref="char:EOLhyphen"/>ciple with us to make it our firſt endeavour with the Parliament, that all things which threaten an En<g ref="char:EOLhyphen"/>gagement of the Kingdome in a ſecond warre, might be removed before we could have a confident expe<g ref="char:EOLhyphen"/>ctation of a good iſſue; upon a Treaty with their Commiſſioners, which courſe of ours, although it might have ſome appearance of delay: yet by men that are zealous of the Kingdomes good (we hope) no endeavour will be judged unneceſſary, that may ſe<g ref="char:EOLhyphen"/>cure the Kingdome from the danger of any new im<g ref="char:EOLhyphen"/>broylments.</p>
+                        <p>
+                           <pb facs="tcp:114386:3"/>
+                           <!-- PDF PAGE 43 -->
+We are now come thus far, that the moſt mate<g ref="char:EOLhyphen"/>riall particulars which we have in preparation to propoſe, for the generall ſettlement of the affaries of the Kingdome, have bin communicated to the Parliaments Commiſſioners; and we hope they are ſatisfied that they containe in them things tending to a generall good, and to lay an hopefull Founda<g ref="char:EOLhyphen"/>tion for common Right, and Freedom, to the peo<g ref="char:EOLhyphen"/>ple of this Land for future; and for a laſting peace amongſt us. But before we can ſecurely intend and without interruption apply our ſelves, unto the proceedings and diſpatch of the Treaty, there upon wee have delivered into the hands of their Comiſſio<g ref="char:EOLhyphen"/>ners, the paper which conſiſts of three particulars, in the laſt whereof (which is the Militia of the City) you being moſt immediatly concerned, to the end you may ſee we would aske nothing which relates to you, without giving you a juſt account thereof, and all poſſible ſatisfaction therein; we have alſo given a Coppy thereof to your Commiſſioners, to be here with ſent unto you. Wee ſhould not deſire this or and thing elſe of that nature were wee per<g ref="char:EOLhyphen"/>ſwaded, that what wee deſire is ſeaſonable, and for yours and the Kingdomes good and quiet. And wee ſhould willingly haue been ſilent (as to this:) but conſidering the juſt jealouſies which lye againſt ſome perſons, now authorized in the exerciſe of that powea amongſt you, and thoſe attempts which have bin made by ſome, who would have engaged your city, to a warre, had not your Lordſhips and the court of Aldermen and Common-Councell
+<pb facs="tcp:114386:4"/>
+                           <!-- PDF PAGE 44 -->by your wiſdome prevented it, by getting thoſe votes which were paſſed by the Mili<g ref="char:EOLhyphen"/>tia, made <hi>null.</hi>
+                        </p>
+                        <p>We cannot in a caſe of this importance but deal freely with you, in deuring your con<g ref="char:EOLhyphen"/>currence with ours to the Parliament; that the Militia may bee changed into thoſe hands, out of which it was taken, of whoſe care and fidelity to the Publike, there hath been ſo long and large experience, as few a<g ref="char:EOLhyphen"/>ges have paralleld. And if the intereſt wee have ſo long fought for be ſtill the ſame, let it not ſeem ſlrange that wee deſire both of the parliament and City, that thoſe may bee in places of ſuch a truſt, who have given the beſt proof of their courage and conſtancy in proſecution of the ſame. Having thus far de<g ref="char:EOLhyphen"/>clared our ſelves with all freedom and clear<g ref="char:EOLhyphen"/>neſſe to you, as we doe not doubt of your good acceptance of our intention therein, ſo we deſire your forwardneſſe in a worke ſo much tending to mutuall confidence: and to prevent the deſignes of any who would bee glad to put obſtructions in the way to a happy concluſion, and envie nothing more
+<pb facs="tcp:114386:4"/>
+                           <!-- PDF PAGE 44 -->then the continuance of a night underſtan<g ref="char:EOLhyphen"/>ding between you and us.</p>
+                        <closer>
+                           <signed>
+                              <hi>By the appointment of his Excellencie Sir Thomas Fairfax, and his Councell of Warre.</hi> Signed, <hi>Iohn Ruſhworth, Secre.</hi>
+                           </signed>
+                           <dateline>Redding <date>Iuly 18. 1647.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+         <div type="document">
+            <head>A Copy of another Paper from the Army, concerning the Free-born People of England.</head>
+            <p>HIs Excellency Sir <hi>Thomas Fairfax</hi> hath writ to the parliament in theſe words, That all perſons impriſoned in <hi>England,</hi> or Dominion of <hi>Wales</hi> (not for Delinquencie in relation to the late war) may be brought to a ſpeedy tryal, and if they appear wrong fully, or unduly impriſhned, they may have reparation according to their ſufferings. And in particular, it is deſired that this may be done in behalf of Lieutenant Col <hi>Lil<g ref="char:EOLhyphen"/>burn,</hi> M. <hi>Musgrave,</hi> M. <hi>Overton,</hi> and others (in their condition) impriſoned about <hi>London.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb facs="tcp:114386:5"/>
+                  <!-- PDF PAGE 45 -->
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>VPon the cloſe of this Letter, a Gentleman reſiding neer the Court, intimated unto me, that when His Majesties Children were at Cauſam, his Excellency Sir T. Fairfax came alſo thither, and preſended himſelfe be<g ref="char:EOLhyphen"/>fore the two Dukes, and the Princeſſe; to whom the Duke of York made this enſuing Speech.</p>
+                  <p>
+                     <hi>Renowned Generall,</hi>
+                     <lb/>
+We heartily thank you for the great happineſse we now enjoy by the ſight of Our dear Father, the effecting wher<g ref="char:EOLhyphen"/>of, we cannot but attribute wholly to your induſtry and engagement; and as it is a great favour to Vs, ſo ſhall it be no prejudice to you: Pray accept of this Our ac<g ref="char:EOLhyphen"/>knowledgment, as the firſt part of requitall, being all we are able to do at preſent; but if ever it lyes in our po<g ref="char:EOLhyphen"/>wer, it ſhall be better requited.</p>
+                  <p>To which his Excellency replyed, That it was the leaſt of thoſe duties, w<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>erein he was obliged to ſerve his Ma<g ref="char:EOLhyphen"/>jeſty, and his Royall Posterity.</p>
+                  <p>But by reaſon of our motion Northward, I dare not detract too much time, but muſt of neceſsity draw to a period; only (in briefe) I ſhall give you ſome of the chief Heads concerning the Armies grand Declaration, now ſpeedily to be preſented to both Houſes of Parliament, VIZ.</p>
+                  <list>
+                     <item>
+                        <hi>1.</hi> That a Councell of State conſiſting of <hi>21.</hi> may have the ordering of the Militia, and power to treat with forraign States.</item>
+                     <item>
+                        <hi>2.</hi> That a period be ſet to this Parla<g ref="char:EOLhyphen"/>ment.</item>
+                     <item>
+                        <hi>3.</hi> That ſome penall Statutes be repealed.</item>
+                     <item>
+                        <hi>4.</hi> An Act of Oblivion paſt, and the future Parliaments bien<g ref="char:EOLhyphen"/>unall.</item>
+                     <item>
+                        <hi>5.</hi> Something concerning the King, touching Par<g ref="char:EOLhyphen"/>liaments.</item>
+                     <item>
+                        <hi>6.</hi> Concerning liberty of Conſcience.</item>
+                  </list>
+                  <p>Thus having given you a briefe account, I remain</p>
+                  <closer>
+                     <signed>Yours to ſerve you, William Sanders.</signed>
+                     <dateline>Redding <date>22 of July 1647.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <gap reason="missing" extent="1+ pages">
+               <desc>〈1… pages missing〉</desc>
+            </gap>
+            <pb n="17" facs="tcp:114386:5"/>
+            <!-- PDF PAGE 45 -->
+            <p n="8">8 Their eighth unreaſonable Demand is, To have a Tolera<g ref="char:EOLhyphen"/>tion for all manner of Perſons or opinions without any diſtin<g ref="char:EOLhyphen"/>ction or limitation at all but this, <hi>If they live peaceably, and are beneficiall to the Common-wealth.</hi> That you might ſee I wrong them not, I ſhall put down their very words:<note n="*" place="margin">See a Letter ſent from Sir <hi>Thomas Fair<g ref="char:EOLhyphen"/>fax</hi> and the chief Comman<g ref="char:EOLhyphen"/>ders in the Ar<g ref="char:EOLhyphen"/>my, to the Lord Mayor, Alder<g ref="char:EOLhyphen"/>men, and Com<g ref="char:EOLhyphen"/>mon Councell of the City of Lon<g ref="char:EOLhyphen"/>don. Dated from Royſton Iune <hi>10.</hi>
+               </note> 
+               <hi>We wiſh that every good Citizen, and every man that walks peaceably, and is beneficiall to the Common-wealth, may have liberty and encou<g ref="char:EOLhyphen"/>ragement, it being according to the juſt policy of all States, even to juſtice it ſelfe:</hi> So that by this it ſeems they deſire, that if Pa<g ref="char:EOLhyphen"/>piſts, Idolaters, Blaſphemers, or any other perſons what ever, though they continue blaſpheming God, and diſturbing the Church, yet muſt they have not onely liberty, but encourage<g ref="char:EOLhyphen"/>ment, in caſe they live peaceably in, and beneficially to the Common-wealth; if the Army had told us thus, when they were firſt raiſed, they ſhould never have had my prayers with them. Is this the fruit of all the expence of treaſure and bloud, that inſtead of order, we ſhall have confuſion; inſtead of eſta<g ref="char:EOLhyphen"/>bliſhing the true Religion, there ſhould be a toleration of all Religions? what's this but to make <hi>London</hi> worſe then <hi>Am<g ref="char:EOLhyphen"/>ſterdam,</hi> and <hi>England</hi> worſe then <hi>India</hi> it ſelf?</p>
+            <p n="9">9 Their ninth unreaſonable Demand for<note n="*" place="margin">Humble Re<g ref="char:EOLhyphen"/>preſent. p. <hi>23.</hi> l. <hi>4.</hi>
+               </note> Reparation and Vindication of the Army. Now with what conſcience can they expect this? Would they have us ſay, they are an obedient Ar<g ref="char:EOLhyphen"/>my, when they have publiſhed their diſobedience to all the world? Would they have us ſay, they are an Army of Saints, when we know there are abundance of groſſe and abominable Heretikes among them, who deny the Divinity of Chriſt, the Authority of the Scriptures, the Immortality of the Soule? &amp;c. Inſtead of requiring Vindication and Reparation from us, we may rather deſire humiliation and reformation from them.</p>
+            <p>Touching the unreaſonableneſſe of theſe demands, I cannot but admire at three things, <hi>viz.</hi>
+               <list>
+                  <item>1. At the falſhood of the Army, that ſhould make theſe high Demands, after they had promiſed in a Letter<note n="*" place="margin">See the Letter from Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Fairfax</hi> and the chief Commanders to the Lord Mayor &amp;c. Dated from Royſton Iune <hi>10. 1647.</hi>
+                     </note> to the L. Mayor, Aldermen, and Com<g ref="char:EOLhyphen"/>mon Councell (dated from Royſton June 10.) they would not go beyond their former deſires. Yea in their Declaration foure dayes after this they make this engagement; <hi>Though there are beſides theſe many particulars we could wiſh to be done, and ſome
+<pb n="18" facs="tcp:114386:6"/>
+                        <!-- PDF PAGE 46 -->to be undone, but theſe propoſalls aforegoing preſent, being the prin<g ref="char:EOLhyphen"/>cipall things we bottome and inſiſt upon, we ſhall (as we have ſaid before) acquieſſe in the wiſdome and juſtice of the Parliament.</hi> Notwithſtanding this promiſe, that they would acquieſſe, ask no more, not go beyond their former deſires, yet have they peremptorily infiſted on moſt of theſe, and many more unrea<g ref="char:EOLhyphen"/>ſonable Demands ſince that time.</item>
+                  <item>2. I cannot but admire at the forgetfulneſſe that is in the people of their ſolemne League and Covenant; that they will ſuffer an Army to foment ſchiſm by Separation, to deſtroy Religion by Toleration, to make fa<g ref="char:EOLhyphen"/>ctions &amp; parties among the people by combinations; to infringe the power and Priviledges of Parliament by their peremptory refuſall, and obſtinate diſobedience to the Parliaments Com<g ref="char:EOLhyphen"/>mands.</item>
+                  <item>3. I cannot but admire, that any people ſhould ap<g ref="char:EOLhyphen"/>prove of the Demands and proceedings of the Army, when the Army it ſelf hath ſome heſitancie or doubting about their proceedings, whether juſtifiable or not.</item>
+               </list> The Counſell of War convened at Bury confeſſed, that among their Souldiers there were<note n="a" place="margin">See the opini<g ref="char:EOLhyphen"/>on and advice of the Councell of War at Bury, <hi>20.</hi> May, <hi>1647.</hi> p <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> lin<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>37.</hi>
+               </note> 
+               <hi>diſturbed and tumultuous actings.</hi> So alſo in the copie of the Grievances of the Army preſented at Saffron-Walden to Field-Marſhall <hi>Skippon,</hi> Lievtenant-Generall <hi>Cromwell,</hi> Com<g ref="char:EOLhyphen"/>miſſary <hi>Ireton,</hi> and Colonell <hi>Fleetwood,</hi> it is by 240. Commiſſi<g ref="char:EOLhyphen"/>on-Officers of the Army deſired, that the above-named Com<g ref="char:EOLhyphen"/>miſſioners would,<note n="b" place="margin">S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e the copie of Grievances, p. <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> line <hi>18.</hi>
+               </note> as farre as juſtly they can, cover their weak<g ref="char:EOLhyphen"/>neſſe: yea Sir <hi>Thomas Fairfax</hi> himſelfe confeſſeth that he is<note n="c" place="margin">See Sir <hi>Tho<g ref="char:EOLunhyphen"/>mas Fairfax</hi> his Letter to M. Speaker, da<g ref="char:EOLhyphen"/>ted at Bury May <hi>30. 1647.</hi>
+               </note> 
+               <hi>forc'd to yeeld to ſomthing out of order</hi> to keep the Army from diſorder, or worſe inconveniences. Yea by the whole Army in their Remonſtrance 'tis confeſt, that they ſhall be<note n="d" place="margin">See humble Remonſt p. <hi>14. 33.</hi>
+               </note> inforc'd to take courſes extraordinary. Now if themſelves confeſſe they have diſturbed and tumultuous actings, ſhall we think they are all peaceably-minded; if they themſelves ſay they have weak<g ref="char:EOLhyphen"/>neſſe in the tranſactions of this buſineſſe, may not we judge it wickedneſſe? If their Generall confeſſeth, that he is forced to yeeld to ſome things out of order, and that in the Moneth of May, when they did but begin their mutinies, to what diſorders is he forc'd ſince to yeeld to, now the Army hath been ſo inured to diſobedience?</p>
+            <p>I come now to urge ſome new Queres to the conſciences of the Army.</p>
+            <p n="1">
+               <pb n="19" facs="tcp:114386:6"/>
+               <!-- PDF PAGE 46 -->
+1. <hi>Quere.</hi> WHether your diſobedience to the Parliament doth not directly anſwer and run parallell to <hi>Abſalons</hi> Rebellion againſt his father <hi>David?</hi>
+               <list>
+                  <item>1. Did <hi>Abſalon</hi> pretend an obſtruction of juſtice? 2 <hi>Sam.</hi> 15.3. ſo doe you.</item>
+                  <item>2. Did <hi>Abſalon</hi> wiſh that he were Judge in the Land, then pro<g ref="char:EOLhyphen"/>miſed, that any man that had a ſuit or a cauſe, if he did come to him, he would doe him juſtice? 2 <hi>Sam.</hi> 15.4. and doe not you do thus?</item>
+                  <item>3. Did not <hi>Abſalon</hi> at that very time he cried up ju<g ref="char:EOLhyphen"/>ſtice, juſtice, with his tongue, carry rebellion in his heart a<g ref="char:EOLhyphen"/>gainſt his father <hi>David,</hi> and doth not the Army walke in his ſteps?</item>
+                  <item>4. Did <hi>Abſalon</hi> by faire words, a flattering carriage and plauſible pretences, ſteale away the hearts of the men of Iſrael? 2 <hi>Sam</hi> 15.5 6. is not this the daily endeavour of this Army thus to bewitch and ſeduce the people?</item>
+                  <item>5. Did <hi>Abſalon</hi> (when he had gathered head) endanger and terrifie Jeruſalem that great City, where his father <hi>David</hi> was? 2 <hi>Sam.</hi> 15.14. and was not the great City the Metropolis of the Kingdome endangered by the approach of the Army neere it?</item>
+               </list> As face anſwers face in a glaſſe, ſo doth the Armies diſobedience anſwer <hi>Abſalons</hi> Re<g ref="char:EOLhyphen"/>bellion.</p>
+            <p n="2">2. <hi>Quere.</hi> Whether would you have the Parliament to bee ſpeedily diſſolved, in caſe you could new-mould it to an Inde<g ref="char:EOLhyphen"/>pendent Parliament?</p>
+            <p n="3">3. <hi>Quere.</hi> Whether it bee for the credit of your cauſe, that Judge <hi>Jenkins</hi> and other deſperate Malignants, ſhould bee the chiefe Vindicators of your proceedings?</p>
+            <p n="4">4. <hi>Quere.</hi> Whether would you be willing that eleven or more Independent-Members ſhould bee ſuſpended the Houſe, in caſe a Charge or accuſation ſhould bee brought in againſt them? would you be content that thoſe that owne your party ſhould be ſo dealt withall, as you deale with the eleven Mem<g ref="char:EOLhyphen"/>bers? Suppoſe a particular Charge of Treaſon and Rebellion ſhould be brought in againſt <hi>Cromwell:</hi> ſuppoſe further, it can be proved, that hee was choſen a Parliament-man by the Pre<g ref="char:EOLhyphen"/>laticall party in Cambridge, becauſe he reviled the Puritans and would ſtand for Epiſcopacy; ſuppoſe further it can be proved, that when he kept a Brew-houſe in the Iſle of Ely, he was ge<g ref="char:EOLhyphen"/>nerally
+<pb n="20" facs="tcp:114386:7"/>
+               <!-- PDF PAGE 47 -->termed the Town-bull; ſuppoſe all this I ſay, would you be willing that this great Ring-leader of your Rebellion ſhould come to a legall and publike triall?</p>
+            <p n="5">5. <hi>Quere.</hi> Whether your capitulating with the State, ſtan<g ref="char:EOLhyphen"/>ding for Punctilioes, preſſing high demands of the Parliament, whether if all you deſire were granted, would this ſeeming good you deſire, bee a recompence for thoſe reall miſeries and dangers the poore Proteſtants in Ireland undergoe, by your delayes, and refuſall of that juſt and honourable ſervice.</p>
+            <p n="6">6. <hi>Quere.</hi> With what face can you cry out againſt injuſtice in others, when you ſuffer that greateſt act of injuſtice among you to go unpuniſhed? particularly that traiterous act done by Cornet <hi>Ioyce</hi> to take away the King from Holmeby without the conſent of Parliament; which is ſuch a high injury to the King, and affront to the Parliament, that will make you ſtinke in the noſtrills of all Nations, that ſhall heare of your carria<g ref="char:EOLhyphen"/>ges; ſo farre are you from puniſhing this <hi>Ioyce,</hi> that ſince this trayterous action done by him, ſome of your moſt eminent Commanders have tendred him preferment, as if that act did rather deſerve a reward then a cenſure?</p>
+            <p n="7">7. <hi>Quere.</hi> Whether it be not juſt with God that the chiefe Commanders, who have ſtirred up the Army to diſobedience to the Parliament, ſhould be puniſhed by God, that that very Army ſhall not for the future be obedient unto them? I end this ſubject with this confidence, that if God will not honour the Parliament and Citie, to endeavour to ſuppreſſe theſe ſe<g ref="char:EOLhyphen"/>ditious, trayterous Commanders, who have led the Army in<g ref="char:EOLhyphen"/>to diſobedience in the ſimplicity of their hearts, that God will honour his Name to bring us deliverance ſome other way; it may bee, if no body will appeare to ſuppreſſe them, they ſhall deſtroy one another. This is the aſſured confidence of</p>
+            <closer>
+               <signed>Tom Tell-Troth.</signed>
+            </closer>
+            <pb facs="tcp:114386:7"/>
+            <!-- PDF PAGE 47 -->
+         </div>
+      </body>
+   </text>
+</TEI>
